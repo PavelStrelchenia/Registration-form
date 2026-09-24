@@ -11,3 +11,10 @@ A modern registration form built with React.
 - Loading state during submission
 - Success and error messages
 - Responsive design
+
+## Technologies
+
+- React
+- JavaScript
+- HTML
+- CSS
