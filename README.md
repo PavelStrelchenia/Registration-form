@@ -4,7 +4,7 @@ A modern and responsive registration form built with React.
 
 ## Demo
 
-Live demo: [coming soon]
+Live demo: https://pavelstrelchenia.github.io/Registration-form/
 
 ## Features
 
